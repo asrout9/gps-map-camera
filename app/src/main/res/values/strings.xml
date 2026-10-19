@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Offline Map Timestamp Camera</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_camera">Camera</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="new_camera">New Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="settings">Settings</string>
+    <string name="app_tagline">Offline Map &amp; Custom Timestamp Overlay Camera</string>
+    <string name="quick_start">Quick Start</string>
+    <string name="step_location">1. Pick Location</string>
+    <string name="step_datetime">2. Select Date &amp; Time</string>
+    <string name="step_camera">3. Capture Overlay Photo</string>
+
+    <!-- Location Picker -->
+    <string name="location_picker_title">Select Location</string>
+    <string name="search_location">Search city, street, landmark...</string>
+    <string name="current_location">Current Location</string>
+    <string name="reset_map">Reset Map</string>
+    <string name="next">Next</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="coord_format">Format</string>
+    <string name="fetching_address">Fetching address details...</string>
+    <string name="address_unknown">Location details unavailable</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="plus_code">Plus Code</string>
+
+    <!-- Date Time Picker -->
+    <string name="datetime_picker_title">Select Date &amp; Time</string>
+    <string name="use_current_datetime">Use Current Date &amp; Time</string>
+    <string name="use_custom_datetime">Use Custom Date &amp; Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_timezone">Select Timezone</string>
+    <string name="format_12h">12-Hour Format</string>
+    <string name="format_24h">24-Hour Format</string>
+    <string name="proceed_to_camera">Proceed to Camera</string>
+
+    <!-- Camera & Overlay -->
+    <string name="camera_title">Camera Preview</string>
+    <string name="capture">Capture</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_auto">Flash Auto</string>
+    <string name="flash_torch">Torch</string>
+    <string name="camera_flip">Flip Camera</string>
+    <string name="edit_overlay">Edit Overlay</string>
+    <string name="overlay_editor">Overlay Editor</string>
+
+    <!-- Overlay Editor -->
+    <string name="save_preset">Save Preset</string>
+    <string name="widgets">Widgets</string>
+    <string name="styling">Styling</string>
+    <string name="preset_name">Preset Name</string>
+    <string name="widget_date">Date</string>
+    <string name="widget_time">Time</string>
+    <string name="widget_coords">Coordinates</string>
+    <string name="widget_address">Address</string>
+
+    <!-- Gallery -->
+    <string name="gallery_empty">No photos captured yet</string>
+    <string name="photo_details">Photo Details</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="exif_metadata">EXIF Metadata</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="unit_system">Unit System</string>
+    <string name="metric">Metric (m, km)</string>
+    <string name="imperial">Imperial (ft, mi)</string>
+    <string name="jpeg_quality">JPEG Quality</string>
+    <string name="watermark">Watermark</string>
+    <string name="show_watermark">Show App Watermark</string>
+    <string name="theme">App Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_dark">Dark Mode</string>
+    <string name="theme_light">Light Mode</string>
+</resources>

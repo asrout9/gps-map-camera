@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Background Badge -->
+    <path
+        android:pathData="M24,0 L104,0 A24,24 0 0,1 128,24 L128,104 A24,24 0 0,1 104,128 L24,128 A24,24 0 0,1 0,104 L0,24 A24,24 0 0,1 24,0 Z"
+        android:fillColor="#1A1C24" />
+
+    <!-- Camera Body -->
+    <path
+        android:pathData="M28,40 L44,40 L49,32 L79,32 L84,40 L100,40 C104.4,40 108,43.6 108,48 L108,92 C108,96.4 104.4,100 100,100 L28,100 C23.6,100 20,96.4 20,92 L20,48 C20,43.6 23.6,40 28,40 Z"
+        android:fillColor="#282C37" />
+
+    <!-- Outer Lens Ring (Cyan) -->
+    <path
+        android:pathData="M64,48 A22,22 0 1,0 64,92 A22,22 0 1,0 64,48 Z"
+        android:fillColor="#00BCD4" />
+
+    <!-- Inner Lens Aperture -->
+    <path
+        android:pathData="M64,54 A16,16 0 1,0 64,86 A16,16 0 1,0 64,54 Z"
+        android:fillColor="#12141A" />
+
+    <!-- Location Pin Accent in Lens -->
+    <path
+        android:pathData="M64,58 C59.6,58 56,61.6 56,66 C56,71.5 64,79 64,79 C64,79 72,71.5 72,66 C72,61.6 68.4,58 64,58 Z M64,68.5 C62.6,68.5 61.5,67.4 61.5,66 C61.5,64.6 62.6,63.5 64,63.5 C65.4,63.5 66.5,64.6 66.5,66 C66.5,67.4 65.4,68.5 64,68.5 Z"
+        android:fillColor="#FFC107" />
+
+    <!-- Top Right Flash / Dot -->
+    <path
+        android:pathData="M94,48 A4,4 0 1,0 94,56 A4,4 0 1,0 94,48 Z"
+        android:fillColor="#FFC107" />
+</vector>
